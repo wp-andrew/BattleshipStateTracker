@@ -5,3 +5,5 @@
 File information:
 - **BattleshipStateTracker.py** : the implementation of BattleshipStateTracker
 - **test_BattleshipStateTracker.py** : test file for BattleshipStateTracker
+
+_The application is written using Python 3.6_
